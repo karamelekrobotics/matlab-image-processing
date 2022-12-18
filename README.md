@@ -1,7 +1,7 @@
-## matlab-image-processing
+# matlab-image-processing tool
 
-# Usage Example 
-```
+## Usage Example 1
+```matlab
 clear all
 clc
 
