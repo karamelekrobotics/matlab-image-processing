@@ -1,7 +1,7 @@
 ## matlab-image-processing
 
 # Usage Example 
-'''
+```
 clear all
 clc
 
@@ -37,4 +37,4 @@ imshow(eroded)
 
 % external boundary
 boundary = externalBoundary(imbin,se);
-'''
+```
